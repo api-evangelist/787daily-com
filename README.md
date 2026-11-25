@@ -66,7 +66,7 @@
 
 787daily provides English-language news, guides, and real-time alerts about Puerto Rico, covering power outages, water rationing, weather, and local conditions. The site offers live updates, detailed town-by-town information, and resources for residents and visitors, aiming to keep the community informed and safe.
 
-**Areas:** News · PuertoRico · Alerts · Guides · Community
+**Areas:** News · Puerto Rico · Alerts · Guides · Community
 
 ## 787daily on APIs.io
 
@@ -80,8 +80,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [787Daily Com Domain Security](https://apis.io/security/787daily-com/787daily-com-domain-security/)
-- [787Daily Com Vulnerability Disclosure](https://apis.io/security/787daily-com/787daily-com-vulnerability-disclosure/)
+- [787daily Domain Security](https://apis.io/security/787daily-com/787daily-com-domain-security/)
+- [787daily Vulnerability Disclosure](https://apis.io/security/787daily-com/787daily-com-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -94,25 +94,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 12.2** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 15.2** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 50.0 |
+| Discoverability | 67.9 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 4.8 |
-| Access clarity | 21.1 |
+| Access clarity | 27.7 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -130,6 +130,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
 
